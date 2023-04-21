@@ -3,7 +3,7 @@
 
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
-##Equipments Required:
+## Equipments Required:
 
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Jupyter notebook
@@ -14,7 +14,7 @@ Implement training set and test set of the dataframe.
 Plot the required graph both for test data and training data.
 Find the values of MSE , MAE and RMSE.
 
-##Program:
+## Program:
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
@@ -76,3 +76,4 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 */
 ```
+## Output:
