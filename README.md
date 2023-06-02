@@ -5,14 +5,21 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Equipments Required:
 
-Hardware – PCs
-Anaconda – Python 3.7 Installation / Jupyter notebook
-Algorithm
-import the required libraries and read the dataframe.
-Assign hours to X and scores to Y.
-Implement training set and test set of the dataframe.
-Plot the required graph both for test data and training data.
-Find the values of MSE , MAE and RMSE.
+1.Hardware – PCs
+ 
+2.Anaconda – Python 3.7 Installation / Jupyter notebook
+
+3.Algorithm
+
+4.import the required libraries and read the dataframe.
+
+5.Assign hours to X and scores to Y.
+
+6.Implement training set and test set of the dataframe.
+
+7.Plot the required graph both for test data and training data.
+
+8.Find the values of MSE , MAE and RMSE.
 
 ## Program:
 ```
